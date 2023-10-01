@@ -3,4 +3,8 @@ public struct SwiftPackageForBluetoothForDataTransfer {
 
     public init() {
     }
+    public func MyMessage()
+    {
+        print("My Message")
+    }
 }
